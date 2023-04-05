@@ -1,4 +1,6 @@
 # Sprockets: Rack-based asset packaging
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAnirudhpendementersoft%2Fruby.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAnirudhpendementersoft%2Fruby?ref=badge_shield)
+
 
 Sprockets is a Ruby library for compiling and serving web assets.
 It features declarative dependency management for JavaScript and CSS
@@ -714,3 +716,6 @@ Please see the [CHANGELOG](https://github.com/rails/sprockets/tree/master/CHANGE
 
 ## License
 Sprockets is released under the [MIT License](MIT-LICENSE).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAnirudhpendementersoft%2Fruby.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAnirudhpendementersoft%2Fruby?ref=badge_large)
